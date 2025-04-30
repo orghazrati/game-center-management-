@@ -1,4 +1,4 @@
-' NET_SOULS ' is a GAME CENTER i created by java in the WINDOWS platform. its my second project for my resume! the main features of this application is:
+it's a GAME CENTER i created by java in the WINDOWS platform. its my second project for my resume! the main features of this application is:
 
 1-->CONTROL AND MANAGEMENT OVER ALL CUSTOMERS DATA; 
 admin of this application can do everything they want to the customer data and control them.
